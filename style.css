@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: darkgrey;
+}
+.one{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#section{
+    margin-top: 20px;
+    color: black;
+    margin-left: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 80%;
+    float: right;
+}
+#T1{
+    margin-top: 10px;
+    margin-left: 20px;
+    position: absolute;
+}
+.exp{
+    margin-top: 10px;
+}
+.exp1{
+    margin-top: 10px;
+}
+.edu{
+margin-top: 10px;
+}
+.edu1{
+    margin-top: 10px;
+}
+.cert{
+    margin-top: 10px;
+}
+.cert1{
+    margin-top: 10px;
+}
+.About{
+    background-color: lightgrey;
+    width: 20%;
+    height: 100%;
+    float: right;
+    position: absolute;
+}
+.personal{
+    margin-top: 20px;
+    background-color: darkgrey;
+    width: 100%;
+    height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.section1{
+    margin-left: 20px;
+    width: 80%;
+    height: 600px;
+}
+.details{
+    margin-left: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    width: 90%;
+    height: 20%;
+    position: absolute;
+}
+.Soft{
+    background-color: darkgrey;
+    width: 100%;
+    height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: absolute;
+    margin-top: 180px;
+}
+.skills{
+    position: absolute;
+    margin-top: 220px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+.Language{
+    position: absolute;
+    margin-top: 380px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: 30px;
+    background-color: darkgrey;
+    text-align: center;
+}
+.english{
+    position: absolute;
+    margin-top: 420px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
